@@ -1,0 +1,18 @@
+
+¡	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(€¢äŒşÿÿÿÿ8öÈÁ2J$034043e8-3b49-497f-8ec0-de8e0de32a02
+£	java:S116f"aRename this field "Relatorio_Label_Diaria" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ëàõğ8œŸÁ2J$20fee094-e3ce-4fd7-b693-103b823e13ec
+¯	java:S116g"nRename this field "Relatorio_Label_RelatorioFinanceiro" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Î®ı*8¢ÉÁ2J$1429ec47-4a71-4301-a9bc-be39a81bc177
+¨	java:S116h"aRename this field "Relatorio_Table_Diaria" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(—åİÑøÿÿÿÿ8¢ÉÁ2J$f318bdf5-979c-4615-ad6c-61eb655b4c8c
+¯	java:S116i"mRename this field "Relatorio_Table_RelatorioFinaceiro" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(åò·8¤ÜÁ2J$ea99430c-6129-4893-8fcc-fce1c55d9c4b
+¨
+java:S1450f"eRemove the "Relatorio_Label_Diaria" field and declare it as a local variable in the relevant methods.(Ëàõğ8¢âÍÁ2J$ec41c2d1-4b75-4db6-9d35-7885ec7aefd2
+´
+java:S1450g"rRemove the "Relatorio_Label_RelatorioFinanceiro" field and declare it as a local variable in the relevant methods.(Î®ı*8£âÍÁ2J$404f6ec5-8416-4e79-b03c-6c91d8a16e3d
+­
+java:S1450h"eRemove the "Relatorio_Table_Diaria" field and declare it as a local variable in the relevant methods.(—åİÑøÿÿÿÿ8‘œŸÁ2J$7eb750f5-b00e-42cf-aba4-12bf29674c2e
+´
+java:S1450i"qRemove the "Relatorio_Table_RelatorioFinaceiro" field and declare it as a local variable in the relevant methods.(åò·8§ÉÁ2J$5f48dd93-4ccc-438a-9faf-0e65bc304141
+£
+java:S1450j"[Remove the "jScrollPane1" field and declare it as a local variable in the relevant methods.(¤á×ÿÿÿÿÿ8§ÉÁ2J$8975af27-ea15-4828-a740-33a730f918d2
+£
+java:S1450k"[Remove the "jScrollPane2" field and declare it as a local variable in the relevant methods.(ŠÌ«·şÿÿÿÿ8¨ÜÁ2J$2be0eac1-cea5-49bb-9f18-f8c762f0d514

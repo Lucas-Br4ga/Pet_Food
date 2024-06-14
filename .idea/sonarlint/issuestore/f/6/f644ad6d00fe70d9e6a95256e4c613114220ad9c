@@ -1,0 +1,20 @@
+
+k
+java:S1604"(Make this anonymous inner class a lambda(Ñæ‚ï8Áñ„Â2J$5f591673-f40e-4680-adc7-f2f646b960f6
+¡	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(€¢äŒşÿÿÿÿ8Âñ„Â2J$bb2d0854-d647-4d4e-af3a-9d78a1da5e3d
+ª	java:S116e"cRename this field "Estoque_Label_EstoquePet" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Öäì¥ûÿÿÿÿ8Ùñ„Â2J$a1009e90-6f55-4ca2-a1c0-a22080c59581
+¨	java:S116f"aRename this field "Estoque_Table_Protudos" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(õƒ‹øÿÿÿÿ8Ùñ„Â2J$39feec2a-100d-4c32-aa99-55145b5dc33e
+¨	java:S116g"fRename this field "Estoque_TextField_Pesquisar" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(î¤Œô8Ùñ„Â2J$40fa7488-3588-4541-9081-540f517d37ba
+¯
+java:S1450e"gRemove the "Estoque_Label_EstoquePet" field and declare it as a local variable in the relevant methods.(Öäì¥ûÿÿÿÿ8ŸˆˆÂ2J$45bb5f0a-5638-4a5f-b785-af0877c33da7
+­
+java:S1450f"eRemove the "Estoque_Table_Protudos" field and declare it as a local variable in the relevant methods.(õƒ‹øÿÿÿÿ8Üñ„Â2J$5c034590-eedc-4c30-8fb9-9a6ff2f23845
+­
+java:S1450g"jRemove the "Estoque_TextField_Pesquisar" field and declare it as a local variable in the relevant methods.(î¤Œô8Üñ„Â2J$14f80221-b5cd-4192-83c1-3f4138409428
+£
+java:S1450h"[Remove the "jScrollPane1" field and declare it as a local variable in the relevant methods.(¤á×ÿÿÿÿÿ8Üñ„Â2J$b2343f3b-f888-46ee-a009-e26e214cf286
+	java:S100a"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¹®¾ 8æñ„Â2J$1f695836-58e5-4605-be68-cc4658a40fed
+m
+java:S1172a"*Remove this unused method parameter "evt".(¹®¾ 8æñ„Â2J$c627a0c1-0fa8-4096-9ae8-7f4cf825e293
+z
+java:S1135b"2Complete the task associated to this TODO comment.(ÜÀ†áûÿÿÿÿ8çñ„Â2J$014229e1-52ed-4400-87a2-f21199024b51

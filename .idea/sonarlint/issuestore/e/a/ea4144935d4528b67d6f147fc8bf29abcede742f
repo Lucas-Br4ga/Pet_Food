@@ -1,0 +1,83 @@
+
+k
+java:S1604,"(Make this anonymous inner class a lambda(ñÙíÚ8•¿×¦ÿ1J$e6205726-fea9-463c-bdba-3633d3d38c7e
+p
+java:S16046"(Make this anonymous inner class a lambda(ÕÀı«øÿÿÿÿ8•¿×¦ÿ1J$7e00e608-0665-45b0-b043-49b5423181d0
+p
+java:S1604@"(Make this anonymous inner class a lambda(Ãºöôûÿÿÿÿ8•¿×¦ÿ1J$943987aa-30c1-4154-a6fd-759db1e41762
+k
+java:S1604J"(Make this anonymous inner class a lambda(Êø»Ï8•¿×¦ÿ1J$b246f223-fda2-4502-82f9-d6df2655a556
+j
+java:S1604T"(Make this anonymous inner class a lambda(ü¸ ~8•¿×¦ÿ1J$90db4d8c-76fa-4dd0-aece-b31eae71a232
+p
+java:S1604^"(Make this anonymous inner class a lambda(ä·‚’ûÿÿÿÿ8•¿×¦ÿ1J$3bbdec92-2e6a-40c3-8d36-af74cb24a8e3
+¡	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(€¢äŒşÿÿÿÿ8—¿×¦ÿ1J$16cb6c14-d2c3-43b0-bb85-dc134f5f0a10
+°	java:S116·"hRename this field "Cadastrar_jTextField_DataNasc" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ììº÷ÿÿÿÿÿ8¥¿×¦ÿ1J$8a03a987-fc25-43e0-982a-2c0c64051053
+«	java:S116¸"cRename this field "Cadastro_Label_DaataNasc" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÂÇ±—øÿÿÿÿ8¦¿×¦ÿ1J$76d6ff58-ffe8-46a1-baa9-f4e6eabcc9d9
+©	java:S116¹"fRename this field "Cadastro_Label_HoraTrabalho" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(üé€¨8¦¿×¦ÿ1J$fdb30833-bd95-4e56-8aad-66a0b1c795b2
+¢	java:S116º"`Rename this field "Cadastro_Label_Titulo" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(èü¢:8¦¿×¦ÿ1J$61c3dea7-254e-4d00-88d9-6dcd50b68443
+©	java:S116»"aRename this field "Cadastro_TextField_Cpf" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¢–÷ˆøÿÿÿÿ8¦¿×¦ÿ1J$75aaf9af-bed2-41f2-9fc0-3a5fa7ff7f00
+²	java:S116¼"jRename this field "Cadastro_TextField_HoraTrabalho" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(üŠ¬¢ûÿÿÿÿ8¦¿×¦ÿ1J$71dfe4cf-16c9-451b-aa19-aa3e17012dfb
+ª	java:S116½"bRename this field "Cadastro_TextField_Nome" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(°Âºùøÿÿÿÿ8¦¿×¦ÿ1J$3a89b0c8-2aa4-44c0-9af9-e1a02663fc97
+¯	java:S116¾"lRename this field "Cadastro_TextField_ValeTransporte" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Úí¿–8¦¿×¦ÿ1J$3d85edcd-c6ed-4a37-ae2c-0dc4d6c4f7a3
+ 	java:S116¿"^Rename this field "Casdastro_Label_Cpf" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÒùÇl8¦¿×¦ÿ1J$80978917-599a-40a1-89b1-f84ee542b3b9
+¢	java:S116À"_Rename this field "Casdastro_Label_Nome" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ğ†8¦¿×¦ÿ1J$74c5c092-5545-4c1c-a2bf-df8f37abd117
+²	java:S116Á"jRename this field "Casdastro_Label_ValeAlimentacao" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¶äÉ¼ıÿÿÿÿ8¦¿×¦ÿ1J$001f3b3a-3eb9-41da-949b-2f77ffbafd5e
+¬	java:S116Â"iRename this field "Casdastro_Label_ValeTransporte" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(š‡–¹8¦¿×¦ÿ1J$0df02391-1ea3-4956-91fb-52f8c9a13518
+°	java:S116Ã"mRename this field "Casdastro_TextField_ValeAlimetacao" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(İÔ£Ä8¦¿×¦ÿ1J$c3aa505f-27c9-4bf1-a942-1095cc33644b
+µ
+java:S1450·"lRemove the "Cadastrar_jTextField_DataNasc" field and declare it as a local variable in the relevant methods.(Ììº÷ÿÿÿÿÿ8¨¿×¦ÿ1J$71006793-3569-449d-aa02-5b9ecd6fdfeb
+°
+java:S1450¸"gRemove the "Cadastro_Label_DaataNasc" field and declare it as a local variable in the relevant methods.(ÂÇ±—øÿÿÿÿ8©†Ş¦ÿ1J$e54f3393-b9c0-4f4d-a244-9bf6c972a883
+®
+java:S1450¹"jRemove the "Cadastro_Label_HoraTrabalho" field and declare it as a local variable in the relevant methods.(üé€¨8¨¿×¦ÿ1J$6889f915-80c7-473b-893a-46ef6ba7d38c
+§
+java:S1450º"dRemove the "Cadastro_Label_Titulo" field and declare it as a local variable in the relevant methods.(èü¢:8©†Ş¦ÿ1J$9ef14b9d-fd8b-4d36-995b-5875bd8fe601
+®
+java:S1450»"eRemove the "Cadastro_TextField_Cpf" field and declare it as a local variable in the relevant methods.(¢–÷ˆøÿÿÿÿ8©¿×¦ÿ1J$2c32dd98-e42d-4b9a-9368-33ab20e6d4f0
+·
+java:S1450¼"nRemove the "Cadastro_TextField_HoraTrabalho" field and declare it as a local variable in the relevant methods.(üŠ¬¢ûÿÿÿÿ8©¿×¦ÿ1J$c9c431a6-02a5-42b0-9772-94af88916dd9
+¯
+java:S1450½"fRemove the "Cadastro_TextField_Nome" field and declare it as a local variable in the relevant methods.(°Âºùøÿÿÿÿ8©¿×¦ÿ1J$9c28c6c8-7fc1-4390-b892-5ba0645514bc
+´
+java:S1450¾"pRemove the "Cadastro_TextField_ValeTransporte" field and declare it as a local variable in the relevant methods.(Úí¿–8©¿×¦ÿ1J$e07f2e91-dba4-4df7-b5d0-f67970a21680
+¥
+java:S1450¿"bRemove the "Casdastro_Label_Cpf" field and declare it as a local variable in the relevant methods.(ÒùÇl8©¿×¦ÿ1J$bd5cd8b7-5790-4bb7-9021-ddd4a6a0701a
+§
+java:S1450À"cRemove the "Casdastro_Label_Nome" field and declare it as a local variable in the relevant methods.(Ğ†8©¿×¦ÿ1J$456774e5-dc67-443f-83a6-5fe885f9f932
+·
+java:S1450Á"nRemove the "Casdastro_Label_ValeAlimentacao" field and declare it as a local variable in the relevant methods.(¶äÉ¼ıÿÿÿÿ8ª¿×¦ÿ1J$782dcfde-066a-4b5e-931e-648b70631410
+±
+java:S1450Â"mRemove the "Casdastro_Label_ValeTransporte" field and declare it as a local variable in the relevant methods.(š‡–¹8ª¿×¦ÿ1J$6df526f0-e04c-494b-8244-fcc7aa96802b
+µ
+java:S1450Ã"qRemove the "Casdastro_TextField_ValeAlimetacao" field and declare it as a local variable in the relevant methods.(İÔ£Ä8ª¿×¦ÿ1J$4e431922-b950-4d3a-bfaa-6c7ff6f1b8bc
+‘	java:S100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(œ÷„8Ã¿×¦ÿ1J$1e713cc7-6497-427e-8475-2de16369686e
+n
+java:S1172"*Remove this unused method parameter "evt".(œ÷„8Ã¿×¦ÿ1J$88dd937a-adc5-4f7a-b9c7-ae70cdd0a4fb
+{
+java:S1135"2Complete the task associated to this TODO comment.(ÜÀ†áûÿÿÿÿ8Ä¿×¦ÿ1J$7f0c7945-1caf-48ca-adbd-40a0cfae15cc
+–	java:S100¡"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(äëëøÿÿÿÿ8Ä¿×¦ÿ1J$1a2b263e-d42b-4abe-8220-f1870892a215
+s
+java:S1172¡"*Remove this unused method parameter "evt".(äëëøÿÿÿÿ8Ä¿×¦ÿ1J$4efbdbbf-8901-4143-ba3c-86704c32f81b
+{
+java:S1135¢"2Complete the task associated to this TODO comment.(ÜÀ†áûÿÿÿÿ8Ä¿×¦ÿ1J$60ad0971-3314-47fe-bafa-cd4237450c4d
+–	java:S100¥"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(›ªš¯úÿÿÿÿ8Ä¿×¦ÿ1J$3499b2a6-5a20-4ac9-bd10-d32e49a82fde
+s
+java:S1172¥"*Remove this unused method parameter "evt".(›ªš¯úÿÿÿÿ8Ä¿×¦ÿ1J$c5045806-3c13-434a-9929-b1c412fe0bb4
+{
+java:S1135¦"2Complete the task associated to this TODO comment.(ÜÀ†áûÿÿÿÿ8Ä¿×¦ÿ1J$9fde4122-b818-44a3-ba18-edde90c0efe6
+–	java:S100©"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(à‘ñõüÿÿÿÿ8Ä¿×¦ÿ1J$7c63a116-b63c-46b7-8c73-a95faba50051
+s
+java:S1172©"*Remove this unused method parameter "evt".(à‘ñõüÿÿÿÿ8Å¿×¦ÿ1J$58e75fc4-9a1a-457a-9f05-e7618f6e86f1
+{
+java:S1135ª"2Complete the task associated to this TODO comment.(ÜÀ†áûÿÿÿÿ8Å¿×¦ÿ1J$bb178623-4180-47d4-8b3f-920f082a8125
+‘	java:S100­"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ø¹î¤8Å¿×¦ÿ1J$b9d19b0d-3d99-48d0-9012-1666900dad08
+n
+java:S1172­"*Remove this unused method parameter "evt".(Ø¹î¤8Å¿×¦ÿ1J$878f9846-12f4-419f-8b4f-4d8899e51768
+{
+java:S1135®"2Complete the task associated to this TODO comment.(ÜÀ†áûÿÿÿÿ8Å¿×¦ÿ1J$e40cc5d9-b2c4-4ceb-9c7f-6d3f50be0449
+‘	java:S100±"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ôèï‡8Å¿×¦ÿ1J$e1f594a1-2103-4fe8-baac-acd3344c4301
+n
+java:S1172±"*Remove this unused method parameter "evt".(ôèï‡8Å¿×¦ÿ1J$078c3620-9f55-4dac-9564-56affb7dfbbe
+{
+java:S1135²"2Complete the task associated to this TODO comment.(ÜÀ†áûÿÿÿÿ8Å¿×¦ÿ1J$7e648486-cf02-4586-9aec-e03d402f6b78

@@ -1,0 +1,24 @@
+
+¡	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(€¢äŒşÿÿÿÿ8Æ­¨ÿ1J$ce93045c-fc6b-4b71-93be-7aece7e9c809
+©	java:S116†"aRename this field "Venda_Button_Finalizar" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(»æõ‹ÿÿÿÿÿ8ß­¨ÿ1J$06efe817-7c97-44c8-ab50-0fe67373836f
+«	java:S116‡"hRename this field "Venda_ComboBox_FormaPagamento" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(äÊŞ«8à­¨ÿ1J$963c74c9-4a51-4f64-8fa8-84283d5f7899
+ 	java:S116ˆ"]Rename this field "Venda_Label_Titulo" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(â€›Ä8à­¨ÿ1J$73660e3e-3e66-42e7-969b-ef0b674d2c69
+¦	java:S116‰"^Rename this field "Venda_Label_Usuario" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(İİ•Ìıÿÿÿÿ8à­¨ÿ1J$65ebe6a9-96d6-4386-9351-985fb194c982
+ 	java:S116Š"]Rename this field "Venda_Table_Tabela" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ö«¢ö8à­¨ÿ1J$5551b636-1550-4460-9c81-2d7fa47f544c
+¬	java:S116‹"dRename this field "Venda_TextField_Pesquisar" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ı÷À‡ûÿÿÿÿ8à­¨ÿ1J$b78841d7-ff46-4bec-89b7-a3a1da1f0947
+®
+java:S1450†"eRemove the "Venda_Button_Finalizar" field and declare it as a local variable in the relevant methods.(»æõ‹ÿÿÿÿÿ8Ü·¸¨ÿ1J$d0d09fd7-eb0f-49d0-a38c-cdee2d1d6fdb
+°
+java:S1450‡"lRemove the "Venda_ComboBox_FormaPagamento" field and declare it as a local variable in the relevant methods.(äÊŞ«8ã­¨ÿ1J$f6f995b1-d59e-474c-b1bd-3491c2554738
+¥
+java:S1450ˆ"aRemove the "Venda_Label_Titulo" field and declare it as a local variable in the relevant methods.(â€›Ä8ü×·¨ÿ1J$b509cb70-532f-4879-81af-0f41513ac5e3
+«
+java:S1450‰"bRemove the "Venda_Label_Usuario" field and declare it as a local variable in the relevant methods.(İİ•Ìıÿÿÿÿ8ã­¨ÿ1J$32a25718-6f1c-4c5c-be2a-4cd5d911ade9
+¥
+java:S1450Š"aRemove the "Venda_Table_Tabela" field and declare it as a local variable in the relevant methods.(ö«¢ö8ã­¨ÿ1J$babe6840-9a4b-4bbc-9c1e-5ef45f9e287f
+±
+java:S1450‹"hRemove the "Venda_TextField_Pesquisar" field and declare it as a local variable in the relevant methods.(ı÷À‡ûÿÿÿÿ8ã­¨ÿ1J$3346e35c-c9e1-468d-b49f-d71b7e8f3f66
+Ÿ
+java:S1450Œ"VRemove the "jLabel1" field and declare it as a local variable in the relevant methods.(°ãÉ¸ÿÿÿÿÿ8ã­¨ÿ1J$6d529207-db32-47cb-a9a4-fd16d9a28b3e
+¤
+java:S1450"[Remove the "jScrollPane2" field and declare it as a local variable in the relevant methods.(ŠÌ«·şÿÿÿÿ8ã­¨ÿ1J$f513a62d-5590-4b18-89da-41b196968c36
