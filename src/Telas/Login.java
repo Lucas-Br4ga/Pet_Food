@@ -1,9 +1,7 @@
 package Telas;
+import javax.swing.*;
 
-import javax.swing.border.AbstractBorder;
-import java.awt.*;
-
-    public class Login extends javax.swing.JFrame {
+public class Login extends javax.swing.JFrame {
 
         public Login() {
             initComponents();
@@ -20,7 +18,7 @@ import java.awt.*;
             Login_Label_Img = new javax.swing.JLabel();
             Login_TextField_Usuario = new javax.swing.JTextField();
             Login_PasswordField_Senha = new javax.swing.JPasswordField();
-            Login_ToggleButton_EsquiciSenha = new javax.swing.JToggleButton();
+            Login_ToggleButton_Verificacão = new javax.swing.JToggleButton();
             Login_Label_Usuario = new javax.swing.JLabel();
             jLabel2 = new javax.swing.JLabel();
 
@@ -38,10 +36,10 @@ import java.awt.*;
 
             Login_PasswordField_Senha.setBackground(new java.awt.Color(255, 171, 0));
 
-            Login_ToggleButton_EsquiciSenha.setText("Esquici minha senha");
-            Login_ToggleButton_EsquiciSenha.addActionListener(new java.awt.event.ActionListener() {
+            Login_ToggleButton_Verificacão.setText("Verificar");
+            Login_ToggleButton_Verificacão.addActionListener(new java.awt.event.ActionListener() {
                 public void actionPerformed(java.awt.event.ActionEvent evt) {
-                    Login_ToggleButton_EsquiciSenhaActionPerformed(evt);
+                    Login_ToggleButton_VerificacãoActionPerformed(evt);
                 }
             });
 
@@ -56,8 +54,8 @@ import java.awt.*;
                             .addGroup(layout.createSequentialGroup()
                                     .addGroup(layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
                                             .addGroup(layout.createSequentialGroup()
-                                                    .addGap(228, 228, 228)
-                                                    .addComponent(Login_ToggleButton_EsquiciSenha))
+                                                    .addGap(300, 300, 300)//228
+                                                    .addComponent(Login_ToggleButton_Verificacão))
                                             .addGroup(layout.createSequentialGroup()
                                                     .addGap(91, 91, 91)
                                                     .addGroup(layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
@@ -87,7 +85,7 @@ import java.awt.*;
                                             .addComponent(Login_PasswordField_Senha, javax.swing.GroupLayout.PREFERRED_SIZE, javax.swing.GroupLayout.DEFAULT_SIZE, javax.swing.GroupLayout.PREFERRED_SIZE)
                                             .addComponent(jLabel2))
                                     .addGap(32, 32, 32)
-                                    .addComponent(Login_ToggleButton_EsquiciSenha)
+                                    .addComponent(Login_ToggleButton_Verificacão)
                                     .addContainerGap(35, Short.MAX_VALUE))
             );
 
@@ -98,8 +96,10 @@ import java.awt.*;
             // TODO add your handling code here:
         }
 
-        private void Login_ToggleButton_EsquiciSenhaActionPerformed(java.awt.event.ActionEvent evt) {
-            // TODO add your handling code here:
+        private void Login_ToggleButton_VerificacãoActionPerformed(java.awt.event.ActionEvent evt) {
+            JFrame menu = new Menu();
+            menu.setVisible(true);
+            this.setVisible(false);
         }
 
 
@@ -108,7 +108,7 @@ import java.awt.*;
         private javax.swing.JLabel Login_Label_Usuario;
         private javax.swing.JPasswordField Login_PasswordField_Senha;
         private javax.swing.JTextField Login_TextField_Usuario;
-        private javax.swing.JToggleButton Login_ToggleButton_EsquiciSenha;
+        private javax.swing.JToggleButton Login_ToggleButton_Verificacão;
         private javax.swing.ButtonGroup buttonGroup1;
         private javax.swing.JLabel jLabel2;
     }

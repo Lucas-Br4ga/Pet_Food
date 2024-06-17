@@ -1,5 +1,5 @@
 package Telas;
-
+import javax.swing.*;
 import java.awt.Color;
 
 public class Menu extends javax.swing.JFrame {
@@ -102,19 +102,28 @@ public class Menu extends javax.swing.JFrame {
     }
 
     private void Menu_Button_VendasActionPerformed(java.awt.event.ActionEvent evt) {
-        // TODO add your handling code here:
+        JFrame venda = new Venda();
+        venda.setVisible(true);
+        this.setVisible(false);
     }
 
     private void Menu_Button_CadastrarUsuarioActionPerformed(java.awt.event.ActionEvent evt) {
-        // TODO add your handling code here:
+        JFrame cadastro = new Cadastro();
+        cadastro.setVisible(true);
+        this.setVisible(false);
+
     }
 
     private void Menu_Button_EstoqueActionPerformed(java.awt.event.ActionEvent evt) {
-        // TODO add your handling code here:
+        JFrame estoque = new Estoque();
+        estoque.setVisible(true);
+        this.setVisible(false);
     }
 
     private void Menu_Button_FinanceiroActionPerformed(java.awt.event.ActionEvent evt) {
-        // TODO add your handling code here:
+        JFrame relatorio = new Relatorio();
+        relatorio.setVisible(true);
+        this.setVisible(false);
     }
 
 
